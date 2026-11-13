@@ -16,7 +16,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00FFFF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress;DSA+%7C+Problem+Solving+%7C+Innovation;Building+Ideas+Into+Reality+%F0%9F%9A%80"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00FFFF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;DSA+%7C+Problem+Solving+%7C+Innovation;Building+Ideas+Into+Reality+%F0%9F%9A%80"
   alt="Typing SVG"/>
 </h3>
 
