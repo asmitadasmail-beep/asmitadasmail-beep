@@ -50,7 +50,6 @@ I'm passionate about technology, intelligent systems, and building solutions tha
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 💻 Practising Data Structures and Algorithms
 - 🌐 Developing web applications
-- 🧬 Interested in computational biology and healthcare technology
 - 🚀 Participating in hackathons and collaborative projects
 - ⚡ Always experimenting with new technologies
 
