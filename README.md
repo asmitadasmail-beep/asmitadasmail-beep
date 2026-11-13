@@ -36,13 +36,16 @@
   <img src="https://img.shields.io/badge/01-ABOUT%20ME-BD00FF?style=for-the-badge&labelColor=090014"/>
 </h2>
 
-<table align="center">
-<tr>
-<td width="65%" valign="middle">
+<!-- MIKASA CHARACTER - RIGHT SIDE -->
+
+<img align="right"
+     width="300"
+     src="assets/mikasa.png"
+     alt="Mikasa Ackerman"/>
 
 <h3>👩‍💻 Who Am I?</h3>
 
-Hey! I'm **Asmita Das**, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
 I'm passionate about technology, intelligent systems, and building solutions that solve real-world problems.
 
@@ -53,23 +56,15 @@ I'm passionate about technology, intelligent systems, and building solutions tha
 - 🚀 Participating in hackathons and collaborative projects
 - ⚡ Always experimenting with new technologies
 
-**Current Mission:** Transform ideas into impactful technology.
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="assets/profile-character.png" width="240" alt="Profile Character"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PLAYER-01-FF00FF?style=for-the-badge&labelColor=090014"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
+
+**CURRENT MISSION**
+
+Transform ideas into impactful technology.
+
+<br clear="right"/>
+
+---
 
 <!-- ====================================================== -->
 <!--                     TECH STACK                         -->
@@ -221,17 +216,19 @@ IMPORTANT:
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+
+  <a href="https://www.linkedin.com/in/asmita-das-03078738a/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:asmitadasmail@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-FF00AA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/asmitadasmail-beep">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-BD00FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
 </p>
 
 <br/>
