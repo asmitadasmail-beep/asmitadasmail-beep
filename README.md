@@ -108,9 +108,11 @@ Transform ideas into impactful technology.
   <img src="https://img.shields.io/badge/03-GITHUB%20ANALYTICS-FF00FF?style=for-the-badge&labelColor=090014"/>
 </h2>
 
+<!-- GITHUB STATS -->
+
 <p align="center">
   <img width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=asmitadasmail-beep&show_icons=true&hide_border=true&bg_color=090014&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=BD00FF"/>
+  src="https://github-readme-stats.vercel.app/api?username=asmitadasmail-beep&show_icons=true&hide_border=true&bg_color=090014&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF"/>
 
   <img width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitadasmail-beep&layout=compact&hide_border=true&bg_color=090014&title_color=00FFFF&text_color=FFFFFF"/>
@@ -143,7 +145,6 @@ Transform ideas into impactful technology.
   src="https://github-readme-activity-graph.vercel.app/graph?username=asmitadasmail-beep&bg_color=090014&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&area_color=6A00FF&hide_border=true&custom_title=NEON%20DEVELOPER%20ACTIVITY"/>
 </p>
 
-<br/>
 
 <!-- ====================================================== -->
 <!--                  CONTRIBUTION SNAKE                    -->
