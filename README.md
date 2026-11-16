@@ -145,6 +145,20 @@ Transform ideas into impactful technology.
   src="https://github-readme-activity-graph.vercel.app/graph?username=asmitadasmail-beep&bg_color=090014&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&area_color=6A00FF&hide_border=true&custom_title=NEON%20DEVELOPER%20ACTIVITY"/>
 </p>
 
+<br/>
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+
+<h2 align="center">
+  ⚡ 3D CONTRIBUTION CALENDAR ⚡
+</h2>
+
+<p align="center">
+  <img src=".github/assets/metrics-activity.svg" width="100%" alt="3D GitHub Contribution Calendar"/>
+</p>
+
+<br/>
+
 
 <!-- ====================================================== -->
 <!--                  CONTRIBUTION SNAKE                    -->
